@@ -6,8 +6,6 @@ Idempotency is a property of API requests or operations that guarantees the same
 
 - GET, HEAD, OPTIONS, and TRACE: These methods never change the resource state on the server. Browsers and Proxies treat GET as Idempotent
 - PUT: This method is idempotent because the first request updates the resource, and the other requests overwrite the same resource state.
-
-
 ##### Solving for Idempotency in Backend
 
 1. Generate Unique Keys:

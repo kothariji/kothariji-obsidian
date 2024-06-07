@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f816180766f045b5",
+        "id": "6e4fef3839452e94",
         "type": "tabs",
         "children": [
           {
-            "id": "50aa4a17bbd81631",
+            "id": "094ccc9850571ca1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50aa4a17bbd81631",
+  "active": "094ccc9850571ca1",
   "lastOpenFiles": [
     "programming/backend/Processes and Threads.md",
     "programming/backend/Idempotency in Backend.md",
+    "2024-06-06.md",
+    "Untitled.canvas",
     "programming/frontend/javascript/Event Loop.md",
     "programming/frontend/javascript/The work Flow of JS.canvas",
     "programming/frontend/javascript",
